@@ -1,0 +1,9 @@
+chardet
+telethon
+requests
+gtts
+Pillow
+pyrogram
+tgcrypto
+python-dotenv
+aiofiles
