@@ -1,0 +1,10 @@
+chardet
+telethon
+# g4f  ← временно отключаем
+requests
+gtts
+Pillow
+pyrogram
+tgcrypto
+python-dotenv
+aiofiles
