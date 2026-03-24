@@ -1,0 +1,18 @@
+project/
+│
+├── main.py
+├── instruction.txt
+├── troll.py
+├── dox.py
+├── add.py
+├── gpt.py
+├── img.py
+├── addtroll.py
+├── menu.py
+├── tts.py
+├── anon.py
+├── utils.py
+├── slova.py
+├── trolls.txt
+├── emails.txt
+└── requirements.txt
