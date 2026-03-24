@@ -1,5 +1,0 @@
-telethon
-g4f
-requests
-gtts
-Pillow
