@@ -1,3 +1,0 @@
-
-TOKEN = '8639489390:AAHdff-oIoemmRRnbK1JIQrV9HdjGdKW7nM'
-admin_id = 8478884644
